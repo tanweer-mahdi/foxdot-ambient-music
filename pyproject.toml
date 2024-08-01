@@ -1,0 +1,15 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Shah Mahdi Hasan", email = "tanweer.mahdi@gmail.com"},
+]
+dependencies = [
+    "FoxDot @ git+https://github.com/eevelweezel/FoxDot.git@python311",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
+[tool.pdm]
